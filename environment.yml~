@@ -1,0 +1,10 @@
+name: example-environment
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
