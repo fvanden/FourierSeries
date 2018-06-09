@@ -1,2 +1,8 @@
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension enable python-markdown/main
+
 jupyter nbextension install --py fileupload
 jupyter nbextension enable --py fileupload
+
+jupyter trust Fourier_Transform_Practical_4All-Cimetta.ipynb

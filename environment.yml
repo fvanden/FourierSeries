@@ -9,4 +9,5 @@ dependencies:
   - matplotlib
   - ipywidgets
   - pip:
-    - fileupload
+    - jupyter_contrib_nbextensions
+    - fileupload  
