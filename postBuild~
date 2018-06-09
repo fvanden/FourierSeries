@@ -1,6 +1,5 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
-jupyter nbextension enable python-markdown/main
 
 jupyter nbextension install --py fileupload
 jupyter nbextension enable --py fileupload
